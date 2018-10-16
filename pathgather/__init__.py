@@ -16,6 +16,7 @@
 
 
 from .client import PathgatherClient  # NOQA
+import types_ as types
 
 __author__ = "Anthony Shaw"
 __email__ = "anthonyshaw@apache.org"
